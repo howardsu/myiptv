@@ -1,0 +1,203 @@
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png",咪咕1
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕2.png",咪咕2
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕3.png",咪咕3
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕4.png",咪咕4
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕5.png",咪咕5
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕6.png",咪咕6
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕7.png",咪咕7
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕8.png",咪咕8
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕9.png",咪咕9
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕10.png",咪咕10
+http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16-4K
+http://tt-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV-4K
+http://tt-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="资讯" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png",中天新闻
+http://www.yshmzmc.top/gtjm.php?id=live1015
+#EXTINF:-1 group-title="资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 group-title="资讯" tvg-logo="https://iptv-pro.github.io/logo/Fox%20News.png",FOX News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="资讯" tvg-logo="https://iptv-pro.github.io/logo/NBC%20News.png",NBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4K
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/anhui.png",安徽卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/sichuan.png",四川卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/chongqing.png",重庆卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png",甘肃卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 group-title="网络",纯享4K
+http://39.135.138.58:18890/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",AL Jazeera FHD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b68fe67.jpg",ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg",ABC News US HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61556780f381e.jpg",BBC World News HD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61555d61ab15d.jpg",NBC NEWS FHD
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆1
+http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆2
+http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆3
+http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆4
+http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆10
+http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆11
+http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆12
+http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆16
+http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆21
+http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆23
+http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆24
+http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆25
+http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆26
+http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆27
+http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆28
+http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆29
+http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆30
+http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆31
+http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆32
+http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆41
+http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆42
+http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆44
+http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆47
+http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆49
+http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆52
+http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆54
+http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆56
+http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆57
+http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆58
+http://txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆61
+http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆65
+http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+#EXTINF:-1 group-title="TVB轮播" tvg-logo="https://www.hualigs.cn/image/615937c8b1735.jpg",埋堆堆66
+http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
