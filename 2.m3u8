@@ -245,18 +245,10 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836349&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836348&extension=ts
 #EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-LOS-ANGELES-LAKERS.jpg",NBA TEAM| LOS ANGELES LAKERS
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836344&extension=ts
-#EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MIAMI-HEAT.jpg",NBA TEAM| MIAMI HEAT
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836342&extension=ts
-#EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-NEW-ORLEANS-PELICAN.png",NBA TEAM| NEW ORLEANS PELICANS
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836339&extension=ts
 #EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-OKLAHOMA-CITY-THUNDER.png",NBA TEAM| OKLAHOMA CITY THUNDER
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836337&extension=ts
-#EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PHILADELPHIA-76ERS.jpg",NBA TEAM| PHILADELPHIA 76ERS
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836335&extension=ts
 #EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-SAN-ANTONIO-SPURS.jpg",NBA TEAM| SAN ANTONIO SPURS
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836331&extension=ts
-#EXTINF:-1 group-title="US| NBA PACKAGE" tvg-logo="http://logo.protv.cc/picons/logos/NBA-UTAH-JAZZ.png",NBA TEAM| UTAH JAZZ
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836329&extension=ts
 #EXTINF:-1 group-title="CHINA / HONGKONG" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png",HK| FAIRCHILD EAST
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90350&extension=ts&play_token=w4panUqY4F
 #EXTINF:-1 group-title="CHINA / HONGKONG" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png",HK| FAIRCHILD WEST
@@ -335,8 +327,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941678&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941677&extension=ts&play_token=K7kaWr3fYP
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/Animax.png",SG| ANIMAX HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941676&extension=ts&play_token=TDzh5uXvQq
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/babyfirsttv.png",SG| BABY FIRST TV HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941675&extension=ts&play_token=trxhuYFOO6
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png",SG| BOOMERANG HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941674&extension=ts&play_token=JzPoiUE11R
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-HD.png",SG| CARTOON NETWORK  HD
@@ -375,8 +365,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941658&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941657&extension=ts&play_token=V4t1ZPNezl
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png",SG| DREAMWORKS CHANNEL HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941656&extension=ts&play_token=qhleUjLjzf
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/makeful.png",SG| MAKEFUL HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941655&extension=ts&play_token=9bl3jCv1JJ
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/paramountnetwork.png",SG| PARAMOUNT NETWORK HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941654&extension=ts&play_token=YGB0fWnnO6
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png",SG| WARNERTV HD
@@ -495,8 +483,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941597&ex
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941596&extension=ts&play_token=YMCOf2Scch
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/ktv.png",SG| KTV HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941595&extension=ts&play_token=nZmig0OTix
-#EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/ndtv24x7.png",SG| NDTV 24X7 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941594&extension=ts&play_token=uVoSUYA5ly
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/SONY-ENTERTAINMENT-TV-HD.jpg",SG| SONY ENTERTAINMENT HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941593&extension=ts&play_token=vVsoQlxJ71
 #EXTINF:-1 group-title="SINGAPORE" tvg-logo="http://logo.protv.cc/picons/logos/SONY-MAX-HD.png",SG| SONY MAX HD
@@ -689,8 +675,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89468&ext
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89506&extension=ts&play_token=JtgTaYKXvR
 #EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="http://logo.protv.cc/picons/logos/LOTTE_HOMESHOPPING.png",SKR| LOTTE HOMESHOPPING
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89467&extension=ts&play_token=ulNWktP0Q6
-#EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="http://logo.protv.cc/picons/logos/M20_tv.png",SKR| M20 TV
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89505&extension=ts&play_token=JgJq8ngxRc
 #EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="http://logo.protv.cc/picons/logos/mbc.png",SKR| MBC SPORTS  TV
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=89504&extension=ts&play_token=mQHLyGjdft
 #EXTINF:-1 group-title="SOUTH KOREA" tvg-logo="http://logo.protv.cc/picons/logos/MTN.png",SKR| MTN
@@ -1949,8 +1933,6 @@ http://stream5.jlntv.cn/wq/sd/live.m3u8
 http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="辽宁",辽宁体育
 http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="辽宁",辽宁都市
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
 #EXTINF:-1 group-title="辽宁",辽宁影视剧
 http://42.176.185.28:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="辽宁",辽宁教育青少
@@ -2437,8 +2419,6 @@ http://live.sctvcloud.com/live/ningnantv1/playlist.m3u8
 http://103.252.251.199:18085/hls/xichangweishi.m3u8
 #EXTINF:-1 group-title="四川",德格综合频道
 http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel5/playlist.m3u8
-#EXTINF:-1 group-title="四川",德格综合频道
-http://tv.drs.ganzitv.com:8100/channellive/dege.flv
 #EXTINF:-1 group-title="四川",康定新闻综合
 http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 #EXTINF:-1 group-title="四川",康定新闻综合
