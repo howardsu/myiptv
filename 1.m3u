@@ -51,8 +51,6 @@ http://ry.soff.cn:4022//rtp/239.3.1.124:8128
 http://ry.soff.cn:4022//rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 http://ry.soff.cn:4022//rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-name="CCTV16" group-title="IPV6·央视",CCTV16「IPV6」
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://ry.soff.cn:4022//rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
