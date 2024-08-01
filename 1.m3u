@@ -51,6 +51,8 @@ http://ry.soff.cn:4022//rtp/239.3.1.124:8128
 http://ry.soff.cn:4022//rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 http://ry.soff.cn:4022//rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
+http://ry.soff.cn:4022//rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://ry.soff.cn:4022//rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
