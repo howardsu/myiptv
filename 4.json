@@ -1,0 +1,15 @@
+{
+  "dtaId": 1771232628581,
+  "channels": [
+    "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+    "https://raw.githubusercontent.com/howardsu/myiptv/refs/heads/main/home.m3u"
+  ],
+  "dataValueProxy": "0",
+  "timeoutSwitchLine": "15",
+  "leftRightSelect": true,
+  "fontScale": "1",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": false,
+  "autoUpdate": false,
+  "lightVersionCheck": true
+}
